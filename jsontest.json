@@ -16,11 +16,5 @@
         "user_id": "006",
         "family_members": ["Vin", "Lebron", "Link"],
         "password": "admin"
-    }, 
-    {
-        "name": "Clone",
-        "user_id": "007",
-        "family_members": ["Vin", "Tillo", "Harry"],
-        "password": "scott"
-    }
+    },
 ]
