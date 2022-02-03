@@ -18,9 +18,9 @@
         "password": "admin"
     },
     {
-        "name": "Mee",
-        "user_id": "009",
-        "family_members": ["Vin", "Lebron", "Zelda"],
+        "name": "Test",
+        "user_id": "007",
+        "family_members": ["Vin", "Hippy", "Zelda"],
         "password": "123"
     }
 ]
