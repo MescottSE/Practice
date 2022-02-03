@@ -2,17 +2,26 @@
     {
         "name": "Michael", 
         "user_id": "007",
-        "family_members": ["Cliff", "Sherie", "Tillo"]
+        "family_members": ["Cliff", "Sherie", "Tillo"],
+        "password": "scott"
     },
     {
         "name": "John",
         "user_id": "002",
-        "family_members": ["Vin", "Lebron", "Link"]
+        "family_members": ["Vin", "Lebron", "Link"],
+        "password": "abc"
     },
 
     {
         "name": "Lee",
         "user_id": "006",
-        "family_members": ["Vin", "Lebron", "Link"]
-    }
+        "family_members": ["Vin", "Lebron", "Link"],
+        "password": "admin"
+    }, 
+    {
+        "name": "Clone",
+        "user_id": "007",
+        "family_members": ["Vin", "Tillo", "Harry"],
+        "password": "scott"
+    }, 
 ]
